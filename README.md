@@ -43,3 +43,16 @@ Design a system for the management of flights and pilots.
 
 
 ![FlightManagementSystem](https://user-images.githubusercontent.com/40757395/164107291-0a25e1d7-6ba6-489e-b1bc-0781895695bd.png)
+
+---
+
+Design the system of the application that sells or rents movies online.
+
+- Movies can be listed and sorted in the app and users can subscribe to the app.
+- Users purchase credits through the system for subscription.
+- Only subscribed users can rent movies with their credits and the credit amount of the rented movie is deducted from their account.
+- Regular users and subscribers can purchase movies.
+- If the film is not available, it can be requested.
+
+
+![OnlineMovieSystem](https://user-images.githubusercontent.com/40757395/164119074-e187069d-4e15-411b-8be6-80a9f0990e5e.png)
