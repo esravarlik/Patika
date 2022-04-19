@@ -11,6 +11,8 @@ UniversityManagementSystem Diagram
 
 ![UniversityManagementSystem drawio](https://user-images.githubusercontent.com/40757395/164070199-b8e191d4-c715-451c-b807-7f80a3436d8f.png)
 
+---
+
 You design a system to track information about animals in a zoo.
 
 Animals:
@@ -25,3 +27,19 @@ Animals:
 
 
 ![ZooManagementSystem drawio](https://user-images.githubusercontent.com/40757395/164084008-635f7c66-9037-450a-a123-2d183e8ed0f1.png)
+
+---
+
+Design a system for the management of flights and pilots.
+
+Airlines operate the flights. Every airline has an identity.
+The airline has different types of aircraft.
+Aircraft may be operational or in a state of repair.
+Each flight has a unique identity, airport to take off and land at, and departure and landing times.
+Every flight has a pilot and co-pilot, and they operate the plane.
+Airports have unique IDs and names.
+Airlines have pilots, and each pilot has a level of experience.
+An aircraft type may need a certain number of pilots.
+
+
+![FlightManagementSystem](https://user-images.githubusercontent.com/40757395/164107291-0a25e1d7-6ba6-489e-b1bc-0781895695bd.png)
