@@ -56,3 +56,7 @@ Design the system of the application that sells or rents movies online.
 
 
 ![OnlineMovieSystem](https://user-images.githubusercontent.com/40757395/164119074-e187069d-4e15-411b-8be6-80a9f0990e5e.png)
+
+---
+
+![ElevatorSimulation](https://user-images.githubusercontent.com/40757395/164325535-83ef8f39-6f01-424a-b20d-4e329341ae50.png)
