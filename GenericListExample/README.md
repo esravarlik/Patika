@@ -23,4 +23,4 @@ Class features:
 - **T[] toArray():** Converts the items in the list into an array in the same order.
 - **clear():** Deletes all items in the list.
 - **MyList<T> sublist(int start,int finish):** A list of the index range given in the parameter is returned.
-- **boolean contains(T data):** Returns whether the value given in the parameter is in the array.
+- **boolean contains(T data) :** Returns whether the value given in the parameter is in the array.
